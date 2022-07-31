@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Oh&apos; Jesses</title>
+    <description>Eine ehrenamtliche Band aus der Südwestpfalz  
+die sich für den sozialen Zweck einsetzt  
+und Geld für hilfsbedürftige Menschen spendet
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 Jul 2022 11:21:21 +0200</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2022 11:21:21 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+  </channel>
+</rss>

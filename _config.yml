@@ -1,0 +1,20 @@
+# Site settings
+title: The Oh' Jesses
+description: |
+  Eine ehrenamtliche Band aus der Südwestpfalz  
+  die sich für den sozialen Zweck einsetzt  
+  und Geld für hilfsbedürftige Menschen spendet
+owner: The Oh' Jesses
+first_published: 2022
+baseurl: "" 
+url: "https://theohjesses.de"
+social:
+  youtube-square: https://youtube.com/TheohjessesDe
+  facebook-official: https://facebook.com/TheOhJesses
+  instagram: https://instagram.com/theohjesses
+  #email: /contact/
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
