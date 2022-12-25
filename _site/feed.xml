@@ -8,8 +8,8 @@ und Geld für hilfsbedürftige Menschen spendet
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Dec 2022 11:25:33 +0100</pubDate>
-    <lastBuildDate>Sun, 25 Dec 2022 11:25:33 +0100</lastBuildDate>
+    <pubDate>Sun, 25 Dec 2022 13:25:00 +0100</pubDate>
+    <lastBuildDate>Sun, 25 Dec 2022 13:25:00 +0100</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
   </channel>
