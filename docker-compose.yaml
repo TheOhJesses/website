@@ -1,0 +1,17 @@
+version: '3'
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    platform: linux/arm64
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/site
+    command: jekyll serve --host 0.0.0.0 --watch --force_polling
+    container_name: theohjesses.de
+    environment:
+      - JEKYLL_ENV=development
+

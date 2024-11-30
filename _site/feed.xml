@@ -2,15 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Oh&apos; Jesses</title>
-    <description>Eine Live-Band aus der Südwestpfalz  
-die sich für den sozialen Zweck einsetzt  
-und Geld für hilfsbedürftige Menschen spendet
+    <description>Eine Live-Band aus der Südwestpfalz
+
+welche die Freude an der Musik mit ihrem Publikum teilt
+
+und den Alltag für ein paar Stunden vergessen lässt
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Dec 2022 13:25:00 +0100</pubDate>
-    <lastBuildDate>Sun, 25 Dec 2022 13:25:00 +0100</lastBuildDate>
-    <generator>Jekyll v3.9.2</generator>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 30 Nov 2024 01:50:54 -0600</pubDate>
+    <lastBuildDate>Sat, 30 Nov 2024 01:50:54 -0600</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
     
   </channel>
 </rss>
